@@ -7,3 +7,6 @@ def critical(a, b):
 
 def new_fucntion():
     lkajsdljmx.cmcaosd
+
+
+tatatattatat
