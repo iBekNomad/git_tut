@@ -1,2 +1,9 @@
+
 hello
 
+def critical(a, b):
+    c = a**b
+    return c
+
+def new_fucntion():
+    lkajsdljmx.cmcaosd
