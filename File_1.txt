@@ -1,3 +1,4 @@
+modify in dev "asdsadasdasd"
 file # 1
 changed in dev
  changed in dev after merging to master
