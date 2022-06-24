@@ -1,3 +1,5 @@
 file # 1
 changed in dev
  changed in dev after merging to master
+ 
+ changed in github
